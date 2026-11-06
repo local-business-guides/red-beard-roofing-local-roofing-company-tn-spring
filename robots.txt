@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://local-business-guides.github.io/red-beard-roofing-local-roofing-company-tn-spring/sitemap.xml
